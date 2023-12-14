@@ -1,6 +1,14 @@
 # THYAO Stock Price Prediction
 
-Note: Plotly visualizations are not supported on Github, please use "Open in Colab" button in Jupyter notebooks.
+Note: Plotly visualizations are not supported on Github, please use "Open in Colab" button.
+
+Exploratory Data Analysis: <a target="_blank" href="https://colab.research.google.com/github/candenizkocak/THYAO-Price-Prediction/blob/main/THYAO_EDA.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Predictions: <a target="_blank" href="https://colab.research.google.com/github/candenizkocak/THYAO-Price-Prediction/blob/main/THYAO_price_prediction.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 This repository contains a stock price prediction project for THYAO (Turkish Airlines) using various techniques, including Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), and Gated Recurrent Unit (GRU) models.
 
