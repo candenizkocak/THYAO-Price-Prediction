@@ -1,5 +1,7 @@
 # THYAO Stock Price Prediction
 
+Note: Plotly visualizations are not supported on Github, please use "Open in Colab" button in Jupyter notebooks.
+
 This repository contains a stock price prediction project for THYAO (Turkish Airlines) using various techniques, including Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), and Gated Recurrent Unit (GRU) models.
 
 ## Overview
